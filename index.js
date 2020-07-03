@@ -1,3 +1,3 @@
-function takenumber(people, line) {
-  return ("Welcom")
+function takeNumber(line, name ) {
+  return ("Welcom" ${name} "you are number 1 in line")
 }
