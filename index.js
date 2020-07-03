@@ -3,4 +3,6 @@ function takeNumber(line, name) {
  
   return (`Welcome ${name}. You are number ${line} in line.`)
 }
-function nowServing()
+function nowServing(line) {
+  if()
+}
